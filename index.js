@@ -1,3 +1,5 @@
+//
+
 const { DynamoDBClient, PutItemCommand } = require("@aws-sdk/client-dynamodb");
 const { MarketplaceEntitlementService } = require("@aws-sdk/client-marketplace-entitlement-service");
 
